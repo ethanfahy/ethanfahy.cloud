@@ -7,6 +7,8 @@ url: "https://ethanfahy.cloud"
 github_username: ethanfahy
 twitter_username: EthanHFahy
 linkedin_username: ethanfahy
+# JEKYLL_ENV=production must be set during jekyll build 
+# for google_analytics to be enabled
 google_analytics: UA-150564241-1
 
 theme: minima
